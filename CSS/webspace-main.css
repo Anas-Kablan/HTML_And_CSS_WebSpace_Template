@@ -301,7 +301,7 @@
         position: absolute;
         width: 100px;
         height: calc(100% + 100px );
-        background-color: var(--second-color);
+        background-color: var(--main-color);
         top: -50px;
         right: 0;
         z-index: -1;
